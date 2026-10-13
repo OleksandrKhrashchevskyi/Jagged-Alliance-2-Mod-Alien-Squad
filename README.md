@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/gif/hero.gif" alt="The Alien Team: 58 mercenaries for Jagged Alliance 2 v1.13" width="100%">
+</p>
+
 # The Alien Team - mercenaries
 
 <p align="center">
@@ -39,6 +43,10 @@
 > - [Jotti's malware scan](https://virusscan.jotti.org/) — free scan with a set of popular engines
 >
 > Get the mod only from the [Releases](../../releases) page of this repository. See [Security policy](SECURITY.md).
+
+<p align="center">
+  <img src="docs/gif/backup.gif" alt="Back up your game first: copy Data-1.13, SavedGames and Ja2.ini somewhere safe" width="100%">
+</p>
 
 > [!IMPORTANT]
 > **Back up your game before installing the mod!** The mod is unpacked straight into your game folder: files with the same names are overwritten, and the game's settings may need changes in `Ja2.ini`. The stock `Data-1.13` is not touched, but things can always go wrong. Before you start, copy your whole game folder (at least `Data-1.13`, `SavedGames` and `Ja2.ini`) somewhere safe — just in case. Saves from older versions of the mod do not work in newer ones.
@@ -88,6 +96,8 @@
 - 🧩 **Safe install**: the mod runs from its own `Data-Alien` folder with its own `ja2at.exe`; the stock `Data-1.13` is not touched.
 
 ## Getting started
+
+<p align="center"><img src="docs/gif/getting-started.gif" alt="Getting started: download, scan, back up, unpack, run ja2at.exe" width="100%"></p>
 
 You need **Jagged Alliance 2 v1.13**.
 
@@ -140,6 +150,8 @@ Saves from older versions of the mod do not work in newer ones — start a new g
 <details>
 <summary><b>Alien 1979</b> · 6 operators · Nostromo</summary>
 
+<img src="docs/gif/header-1979.gif" alt="1979 - Nostromo" width="100%">
+
 <div align="center">
 
 | ID | Name | Role | Lvl | Day rate | Traits |
@@ -157,6 +169,8 @@ Saves from older versions of the mod do not work in newer ones — start a new g
 
 <details>
 <summary><b>Aliens 1986</b> · 8 operators · Hadley's Hope, LV-426</summary>
+
+<img src="docs/gif/header-1986.gif" alt="1986 - Hadley's Hope, LV-426" width="100%">
 
 <div align="center">
 
@@ -178,6 +192,8 @@ Saves from older versions of the mod do not work in newer ones — start a new g
 <details>
 <summary><b>Alien 1992</b> · 6 operators · Fiorina 161</summary>
 
+<img src="docs/gif/header-1992.gif" alt="1992 - Fiorina 161" width="100%">
+
 <div align="center">
 
 | ID | Name | Role | Lvl | Day rate | Traits |
@@ -195,6 +211,8 @@ Saves from older versions of the mod do not work in newer ones — start a new g
 
 <details>
 <summary><b>Resurrection 1997</b> · 10 operators · USM Auriga</summary>
+
+<img src="docs/gif/header-1997.gif" alt="1997 - USM Auriga" width="100%">
 
 <div align="center">
 
@@ -218,6 +236,8 @@ Saves from older versions of the mod do not work in newer ones — start a new g
 <details>
 <summary><b>Prometheus 2012</b> · 9 operators · LV-223</summary>
 
+<img src="docs/gif/header-2012.gif" alt="2012 - LV-223" width="100%">
+
 <div align="center">
 
 | ID | Name | Role | Lvl | Day rate | Traits |
@@ -237,7 +257,9 @@ Saves from older versions of the mod do not work in newer ones — start a new g
 </details>
 
 <details>
-<summary><b>Covenant 2017</b> · 14 operators · The Engineers' planet</summary>
+<summary><b>Covenant 2017</b> · 14 operators · Colony ship Covenant</summary>
+
+<img src="docs/gif/header-2017.gif" alt="2017 - Colony ship Covenant" width="100%">
 
 <div align="center">
 
@@ -264,6 +286,8 @@ Saves from older versions of the mod do not work in newer ones — start a new g
 
 <details>
 <summary><b>Romulus 2024</b> · 5 operators · Renaissance station</summary>
+
+<img src="docs/gif/header-2024.gif" alt="2024 - Renaissance station" width="100%">
 
 <div align="center">
 
@@ -391,6 +415,8 @@ Please check the [open issues](../../issues) first — maybe it is already repor
 
 ## 💬 Community
 
+<p align="center"><img src="docs/gif/community.gif" alt="Community: The Bear's Pit, Discord, Facebook, GitHub Discussions" width="100%"></p>
+
 Questions, ideas, mods and talk about Jagged Alliance 2 — come and join the fans:
 
 <p align="center">
@@ -414,6 +440,8 @@ Before you post, read the [Code of Conduct](CODE_OF_CONDUCT.md). Want to help? S
 What's new in each version is listed on the [Releases](../../releases) page.
 
 ## Credits
+
+<p align="center"><img src="docs/gif/credits.gif" alt="Credits: made by fans, for fans" width="100%"></p>
 
 Thanks to the whole **Jagged Alliance 2** fan community — the modders, map makers and players who have kept this game alive for decades, and the **1.13** team whose work makes mods like this possible. This mod is made by fans, for fans.
 
